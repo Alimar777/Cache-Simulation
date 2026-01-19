@@ -1,0 +1,12 @@
+*.o
+*.exe
+*.out
+*.tar
+*.csv
+trace.*
+csim
+test-trans
+test-csim
+tracegen
+.csim_results
+.marker
