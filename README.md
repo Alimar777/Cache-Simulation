@@ -2,7 +2,7 @@
 
 This repository contains my implementation of the CS:APP Cache Lab: a cache
 simulator (`src/csim.c`) and a cache-optimized matrix transpose (`src/trans.c`).
-The focus is correctness, clear structure, and reproducible evaluation.
+The focus is correctness, clear structure, and reproducible evaluation. Originally made in 2023.
 
 ## What this project does
 - Simulates a set-associative cache with LRU eviction and reports hit/miss/evict
